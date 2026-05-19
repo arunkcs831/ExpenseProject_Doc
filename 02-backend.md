@@ -60,7 +60,7 @@ grep expense /etc/passwd
 ## Download and Extract Application
 
 ```bash
-curl -o /tmp/backend.tar.gz https://raw.githubusercontent.com/daws-90s/expense-documentation/refs/heads/main/artifacts/expense-backend-v3.tar.gz
+curl -o /tmp/backend.tar.gz https://github.com/arunkcs831/ExpenseProject_Doc/blob/main/Artifacts/expense-backend-v3.tar.gz
 ```
 
 Extract files directly into `/app` (no subfolder):
